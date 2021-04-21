@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\H4\SecurePasswordsExample\SecurePasswordLogic" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controller" t="Include">
+        <e p="ILoginController.cs" t="Include" />
+        <e p="IUserController.cs" t="Include" />
+        <e p="UserController.cs" t="Include" />
+      </e>
+      <e p="Hashing" t="Include">
+        <e p="HashPassword.cs" t="Include" />
+        <e p="HashPasswordExtensions.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="SecurePasswordLogic.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="SecurePasswordLogic.csproj" t="IncludeRecursive" />
+      <e p="User" t="Include">
+        <e p="IUser.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\H4\SecurePasswordsExample\SecurePasswords" t="IncludeRecursive">
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="SecurePasswords.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="SecurePasswords.csproj" t="IncludeRecursive" />
+      <e p="SecurePasswords.sln" t="IncludeFlat" />
+      <e p="ServiceModule.cs" t="Include" />
+      <e p="Startup.cs" t="Include" />
+    </e>
+    <e p="C:\H4\SecurePasswordsExample\SecurePasswordsDataAccess" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Data" t="Include">
+        <e p="DataManager.cs" t="Include" />
+        <e p="IDataHandler.cs" t="Include" />
+      </e>
+      <e p="Databases" t="Include">
+        <e p="IDataAccess.cs" t="Include" />
+        <e p="SqlDataAccess.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="UserModel.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="SecurePasswordsDataAccess.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="SecurePasswordsDataAccess.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\joi.NISPORTAL\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\joi.NISPORTAL\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_SecurePasswords.1928819000.00" t="ExcludeRecursive" />
+  </component>
+</project>
